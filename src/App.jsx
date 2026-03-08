@@ -1,13 +1,17 @@
 import "./App.css"
+import Title from "./Title"
 
-function Title(){
-  return <h1>I Am The Title !</h1>
+
+
+function Description(){
+  return <h3>I Am The Description !</h3>
 }
 
 function App() {
   return (
   <div>
     <Title />
+    <Description />
     <button>Click Here</button>
   </div>
   )
