@@ -4,7 +4,7 @@ import Title from "./Title"
 
 
 function Description(){
-  return <h3>I Am The Description !</h3>
+  return <h3>My First React App !</h3>
 }
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
   <div>
     <Title />
     <Description />
-    <button>Click Here</button>
+    <button>Follow Me</button>
   </div>
   )
 }
