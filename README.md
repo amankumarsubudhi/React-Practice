@@ -1,16 +1,73 @@
-# React + Vite
+# 🚀 React Practice Repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **React Practice Repository**!
 
-Currently, two official plugins are available:
+This repository contains my **hands-on learning and experiments with React.js**, where I practice the core concepts of modern frontend development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I created this repository to strengthen my understanding of React by building small projects, experimenting with different features, and writing **clean and structured code**.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📚 What I'm Practicing
 
-## Expanding the ESLint configuration
+- ⚛️ React Components
+- 📦 Props
+- 🔄 State Management
+- 🪝 React Hooks
+- 🎯 Event Handling
+- 🔀 Conditional Rendering
+- 🧩 Component Reusability
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Goal of This Repository
+
+- Build a strong foundation in **React.js**
+- Practice **modern frontend development**
+- Write **clean and maintainable code**
+- Prepare for **full-stack development with React**
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+## 📈 Learning Approach
+
+I continuously update this repository as I learn new React concepts and build small practice projects.  
+Each commit reflects my progress in **understanding and applying React in real projects**.
+
+---
+
+## 🌱 Future Improvements
+
+- Add mini React projects
+- Practice advanced hooks
+- Implement API integration
+- Build full UI components
+
+---
+
+⭐ *This repository is part of my journey to becoming a better React and Full-Stack Developer.*
+
+
+---
+
+
+
+
+## 🤝 Connect With Me
+
+* Name : Aman Kumar Subudhi
+* Email : aman.work404@gmail.com
+* LinkedIn : https://linkedin.com/amankumarsubudhi
+* My Portfolio : https://amankumarsubudhi.github.io
+* Github : https://github.com/amankumarsubudhi
+
+**Let’s Grow Together 🚀**
