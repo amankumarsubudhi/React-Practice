@@ -1,6 +1,7 @@
 import "./App.css"
 import Title from "./Title"
 import Name from "./Name"
+import ProductTab from "./ProductTab"
 
 
 
@@ -14,6 +15,7 @@ function App() {
     <Name/>
     <Title />
     <Description />
+    <ProductTab />
     <button> <a href="https://github.com/amankumarsubudhi" target="_blank">Follow Me</a></button>
   </>
   )
