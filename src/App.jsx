@@ -1,18 +1,20 @@
 import "./App.css"
 import Title from "./Title"
+import Name from "./Name"
 
 
 
 function Description(){
-  return <h3>My First React App !</h3>
+  return <h4>This Is My First React App !</h4>
 }
 
 function App() {
   return (
   <>
+    <Name/>
     <Title />
     <Description />
-    <button>Follow Me</button>
+    <button> <a href="https://github.com/amankumarsubudhi" target="_blank">Follow Me</a></button>
   </>
   )
 }
