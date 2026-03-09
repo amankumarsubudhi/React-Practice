@@ -9,11 +9,11 @@ function Description(){
 
 function App() {
   return (
-  <div>
+  <>
     <Title />
     <Description />
     <button>Follow Me</button>
-  </div>
+  </>
   )
 }
 
