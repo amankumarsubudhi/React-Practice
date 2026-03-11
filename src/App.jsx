@@ -1,7 +1,7 @@
 import "./App.css"
 import Title from "./Title"
 import Name from "./Name"
-import ProductTab from "./ProductTab"
+import ProductCard from "./ProductCard"
 
 
 
@@ -12,10 +12,10 @@ function Description(){
 function App() {
   return (
   <>
-    <Name/>
+    <Name />
     <Title />
     <Description />
-    <ProductTab />
+    <ProductCard />
     <button> <a href="https://github.com/amankumarsubudhi" target="_blank">Follow Me</a></button>
   </>
   )
