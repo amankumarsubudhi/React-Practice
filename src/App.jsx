@@ -2,6 +2,7 @@ import "./App.css"
 import Title from "./Title"
 import Name from "./Name"
 import ProductCard from "./ProductCard"
+import MesBox from "./MesBox"
 
 
 
@@ -12,6 +13,7 @@ function Description(){
 function App() {
   return (
   <>
+  <MesBox userName="Aman" textColor="darkred" />
     <Name />
     <Title />
     <Description />
