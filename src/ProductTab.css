@@ -1,0 +1,6 @@
+.ProductTab{
+    width: 1080px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
