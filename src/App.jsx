@@ -13,7 +13,7 @@ function Description(){
 function App() {
   return (
   <>
-  <MesBox userName="Aman" textColor="darkred" />
+  <MesBox userName="Aman" textColor="#61D4F6" />
     <Name />
     <Title />
     <Description />
@@ -23,4 +23,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
