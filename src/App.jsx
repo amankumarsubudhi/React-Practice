@@ -13,7 +13,7 @@ function Description(){
 function App() {
   return (
   <>
-  <MesBox userName="Aman" textColor="#61D4F6" />
+  <MesBox userName="Aman" textColor="#9e00c2" />
     <Name />
     <Title />
     <Description />
