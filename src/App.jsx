@@ -18,7 +18,7 @@ function App() {
     <Title />
     <Description />
     <ProductCard />
-    <button> <a href="https://github.com/amankumarsubudhi" target="_blank">Follow Me</a></button>
+    <button> <a href="https://github.com/amankumarsubudhi" target="_blank">Follow Me On Github</a></button>
   </>
   )
 }
