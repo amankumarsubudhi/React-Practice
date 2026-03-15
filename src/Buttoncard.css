@@ -1,0 +1,8 @@
+.buttons{
+    margin-top: 25px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid white;
+    border-radius: 15px;
+}
