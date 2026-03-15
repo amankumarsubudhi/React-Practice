@@ -1,3 +1,6 @@
+import "./ButtonCard.css";
+
+
 function ButtonCard() {
   return (
     <div className="buttons">
