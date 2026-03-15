@@ -3,6 +3,7 @@ import Title from "./Title"
 import Name from "./Name"
 import ProductCard from "./ProductCard"
 import MesBox from "./MesBox"
+import ButtonCard from "./ButtonCard"
 
 
 
@@ -18,8 +19,7 @@ function App() {
     <Title />
     <Description />
     <ProductCard />
-    <button><a href="https://amankumarsubudhi.github.io">Portfolio</a></button>
-    <button> <a href="https://github.com/amankumarsubudhi" target="_blank">Follow Me On Github</a></button>
+    <ButtonCard />
   </>
   )
 }
