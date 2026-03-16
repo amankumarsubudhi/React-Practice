@@ -1,6 +1,5 @@
 import "./ButtonCard.css";
 
-
 function ButtonCard() {
   return (
     <div className="buttons">
@@ -14,6 +13,13 @@ function ButtonCard() {
         <button>
           <a href="https://github.com/amankumarsubudhi" target="_blank">
             Follow Me On Github
+          </a>
+        </button>
+      </div>
+      <div>
+        <button>
+          <a href="https://www.linkedin.com/in/amankumarsubudhi" target="_blank">
+            LinkedIn
           </a>
         </button>
       </div>
