@@ -6,7 +6,7 @@ function Product({title, price, features1 = [], features2 = [], features3 = []})
     const list2 = features2.map((feature2)=> <li>{feature2}</li>);
     const list3 = features3.map((feature3 => <li>{feature3}</li>));
 
-    let havingDiscount = price > 85000;
+    let havingDiscount = price > 82000;
 
     let styles = {backgroundColor: price>40000 || havingDiscount? "darkred" : "darkgreen"};
     
