@@ -19,7 +19,7 @@ function ButtonCard() {
       <div>
         <button>
           <a href="https://www.linkedin.com/in/amankumarsubudhi" target="_blank">
-            Connect With LinkedIn
+            Connect Me On LinkedIn
           </a>
         </button>
       </div>
