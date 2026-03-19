@@ -5,7 +5,7 @@ function MesBox({userName, textColor}){
     return(
         <>
         <h1 style={style}>Hi, {userName}</h1>
-        <h3>Welcome To My Dashboard</h3>
+        <h3>Welcome To The Dashboard</h3>
         </>
     );
 }
