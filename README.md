@@ -25,7 +25,7 @@ I created this repository to strengthen my understanding of React by building sm
 - Build a strong foundation in **React.js**
 - Practice **modern frontend development**
 - Write **clean and maintainable code**
-- Prepare for **full-stack development with React**
+- Prepare for **Full-stack development with React**
 
 ---
 
