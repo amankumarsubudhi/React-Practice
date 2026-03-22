@@ -5,7 +5,7 @@ function ButtonCard() {
     <div className="buttons">
       <div>
         <button>
-          <a href="https://amankumarsubudhi.github.io">My Portfolio</a>
+          <a href="https://amankumarsubudhi.github.io">View Portfolio</a>
         </button>
       </div>
 
