@@ -26,7 +26,7 @@ function ButtonCard() {
       <div>
         <button>
           <a href="https://drive.google.com/file/d/1gYb86QJuRZ3acC_KLkUzeDCrvtjAQqAj/view?usp=sharing" target="_blank">
-            Download Resume
+            My Resume
           </a>
         </button>
       </div>
