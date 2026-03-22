@@ -12,7 +12,7 @@ function ButtonCard() {
       <div>
         <button>
           <a href="https://github.com/amankumarsubudhi" target="_blank">
-          Github
+          Follow Github
           </a>
         </button>
       </div>
