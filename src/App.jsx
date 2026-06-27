@@ -8,7 +8,7 @@ import ButtonCard from "./ButtonCard"
 
 
 function Description(){
-  return <h4>My React App !</h4>
+  return <h4>My First React App !</h4>
 }
 
 function App() {
