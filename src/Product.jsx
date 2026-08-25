@@ -16,7 +16,7 @@ function Product({title, price, features1 = [], features2 = [], features3 = []})
         <div className="Product" style={styles}>
             <h4>{title}</h4>
             <h5>Price : {price}</h5>
-            {price > 40000 ? <p>35% Discount</p> : <p>20% Discount</p>}
+            {price > 40000 ? <p>20% Discount</p> : <p>15% Discount</p>}
             <ul>{list1}</ul>
             <ul>{list2}</ul>
             <ul>{list3}</ul>
