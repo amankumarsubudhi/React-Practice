@@ -62,7 +62,7 @@ Each commit reflects my progress in **understanding and applying React in real p
 
 
 
-## 🤝 Connect With Me
+## 🤝 Feel Free To Connect With Me
 
 * Name : Aman Kumar Subudhi
 * Email : aman.work404@gmail.com
