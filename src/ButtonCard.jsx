@@ -5,20 +5,20 @@ function ButtonCard() {
     <div className="buttons">
       <div>
         <button>
-          <a href="https://amankumarsubudhi.github.io">My Portfolio</a>
+          <a href="https://amankumarsubudhi.github.io/">My Portfolio</a>
         </button>
       </div>
 
       <div>
         <button>
-          <a href="https://github.com/amankumarsubudhi" target="_blank">
+          <a href="https://github.com/amankumarsubudhi/" target="_blank">
            Follow Me On Github
           </a>
         </button>
       </div>
       <div>
         <button>
-          <a href="https://www.linkedin.com/in/amankumarsubudhi" target="_blank">
+          <a href="https://www.linkedin.com/in/amankumarsubudhi/" target="_blank">
             Connect Me On LinkedIn
           </a>
         </button>
