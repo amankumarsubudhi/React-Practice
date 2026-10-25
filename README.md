@@ -54,7 +54,7 @@ Each commit reflects my progress in **understanding and applying React in real p
 
 ---
 
-⭐ *This repository is part of my journey to becoming a better React and Full-Stack Developer.*
+⭐ *This repository is part of my journey to becoming a better React and Full Stack Developer.*
 
 
 ---
