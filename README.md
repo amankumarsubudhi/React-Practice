@@ -8,7 +8,7 @@ I created this repository to strengthen my understanding of React by building sm
 
 ---
 
-## 📚 What I'm Practicing
+## 📚 What I am Practicing
 
 - ⚛️ React Components
 - 📦 Props
